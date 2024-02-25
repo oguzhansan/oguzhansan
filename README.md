@@ -23,11 +23,9 @@
 
 
 <h3 align="left">Softwares:</h3> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> <a href="https://https://www.ibm.com/products/spss-statistics/" target="_blank" rel="noreferrer"> <img src="https://digitalresearch.bsu.edu/studentsymposium2021/files/original/0819f70bc2e7a72233fa0c02fb8b77cc.png" alt="SPSS" width="40" height="40"/>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> <a href="https://https://www.ibm.com/products/spss-statistics/" target="_blank" rel="noreferrer"> <img src="https://digitalresearch.bsu.edu/studentsymposium2021/files/original/0819f70bc2e7a72233fa0c02fb8b77cc.png" alt="SPSS" width="40" height="40"/> <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*N8Uwuj4le6YDIOrlrDhCtg.png" alt="SPSS" width="40" height="40"/>
  
 
-https://www.cs.waikato.ac.nz/ml/weka/
-https://miro.medium.com/v2/resize:fit:1200/1*N8Uwuj4le6YDIOrlrDhCtg.png
 
 <h3 align="left">Databases:</h3>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
