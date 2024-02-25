@@ -19,7 +19,7 @@
 
 
 <!-- GitHub Actions betiği -->
-- name: generate github-contribution-grid-snake.svg
+name: generate github-contribution-grid-snake.svg
   uses: oguzhansan
   with:
     github_user_name: oguzhansan
