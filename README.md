@@ -34,7 +34,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oguzhansan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhansan" height="30" width="40" /></a> <a href="https://oguzhansan.wordpress.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/975/579/non_2x/wordpress-logo-wordpress-icon-transparent-free-png.png" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/oguzhansan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhansan" height="30" width="40" /></a> <a href="https://oguzhansan.wordpress.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/975/579/non_2x/wordpress-logo-wordpress-icon-transparent-free-png.png" height="40" width="40" /> </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhansan&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhansan" /> </p>
 
