@@ -1,4 +1,4 @@
-[![MasterHead](http:res.cloudinary.com/dgzfnyttr/image/upload/q_auto/v1588961694/tool_sswtit.jpg)]
+[![MasterHead](http:res.cloudinary.com/dgzfnyttr/image/upload/q_auto/v1588961694/tool_sswtit.jpg)
 
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
