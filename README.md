@@ -21,13 +21,10 @@
 <h3 align="left">Tools:</h3>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.fil.ion.ucl.ac.uk/spm/software/spm12/" target="_blank" rel="noreferrer"> <img src="https://www.fil.ion.ucl.ac.uk/spm/images/spm12.png" alt="spm12" width="40" height="40"/> </a> <a href="https://brainvision.com/products/analyzer-2/" target="_blank" rel="noreferrer"> <img src="https://www.brainproducts.com/wp-content/uploads/2020/12/L_Analyzer2-1.jpg" alt="Brainvision Analyzer" width="120" height="40"/> </a>  
 
- 
- 
 
+<h3 align="left">Softwares:</h3> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> <a href="https://https://www.ibm.com/products/spss-statistics/" target="_blank" rel="noreferrer"> <img src="https://digitalresearch.bsu.edu/studentsymposium2021/files/original/0819f70bc2e7a72233fa0c02fb8b77cc.png" alt="SPSS" width="40" height="40"/>
  
-
-
-<h3 align="left">Softwares:</h3> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> <a href="https://https://www.ibm.com/products/spss-statistics/" target="_blank" rel="noreferrer"> <img src="https://digitalresearch.bsu.edu/studentsymposium2021/files/original/0819f70bc2e7a72233fa0c02fb8b77cc.png" alt="SPSS" width="40" height="40"/>
 
 https://www.cs.waikato.ac.nz/ml/weka/
 https://miro.medium.com/v2/resize:fit:1200/1*N8Uwuj4le6YDIOrlrDhCtg.png
