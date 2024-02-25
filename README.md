@@ -18,7 +18,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhansan&show_icons=true&locale=en&layout=compact" alt="oguzhansan" /></p>
 
 
-- uses: oguzhansan
+- name: generate github-contribution-grid-snake.svg
+  uses: oguzhansan
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
