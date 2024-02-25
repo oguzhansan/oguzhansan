@@ -13,8 +13,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **h.oguzhansan@gmail.com**
-
+- 📫 How to reach me <a href="h.oguzhansan@gmail.com" target="_blank">**Mail**</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhansan&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhansan" /> </p>
 
