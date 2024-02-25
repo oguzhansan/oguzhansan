@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oguzhansan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhansan" height="30" width="40" /></a> <a href="https://oguzhansan.wordpress.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/975/579/original/wordpress-logo-wordpress-icon-transparent-free-png.png" alt="oguzhansan" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/oguzhansan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhansan" height="30" width="40" /></a> <a href="https://oguzhansan.wordpress.com" target="_blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/2016/05/WordPress-Logo-PNG-Pic.png" alt="oguzhansan" height="30" width="40" /> </a>
 
 </p>
 
