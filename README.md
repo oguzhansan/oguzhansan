@@ -17,13 +17,22 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhansan&show_icons=true&locale=en&layout=compact" alt="oguzhansan" /></p>
 
+- name: generate github-contribution-grid-snake.svg
+  uses: oguzhansan
+  with:
+    github_user_name: oguzhansan
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 
 - name: generate github-contribution-grid-snake.svg
   uses: oguzhansan
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.oguzhansan }}
+    github_user_name: oguzhansan
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
