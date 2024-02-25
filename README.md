@@ -19,11 +19,6 @@
 
 <!-- GitHub Actions betiği -->
 ```yaml
-name: Generate GitHub Contribution Grid Snake
-uses: oguzhansan
-with:
-  github_user_name: oguzhansan
-  outputs: |
-    dist/github-snake.svg
-    dist/github-snake-dark.svg?palette=github-dark
-    dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+- name: Generate GitHub Contribution Grid Snake
+  uses: oguzhansan/snake-action@master
+
