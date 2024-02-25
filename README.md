@@ -41,8 +41,4 @@
 <a href="https://linkedin.com/in/oguzhansan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhansan" height="30" width="40" /></a> <a href="https://oguzhansan.wordpress.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/975/579/non_2x/wordpress-logo-wordpress-icon-transparent-free-png.png" height="40" width="40" /> </a>
 
 
-<!-- GitHub Actions betiği -->
-```yaml
-- name: Generate GitHub Contribution Grid Snake
-  uses: oguzhansan/snake-action@master
-
+![snake gif](https://github.com/oguzhansan/oguzhansan/blob/output/github-contribution-grid-snake.gif)
