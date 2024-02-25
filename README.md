@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/oguzhansan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhansan" height="30" width="40" /></a> 
   
-<a href="https://oguzhansan.wordpress.com" target="_blank"> <img align="center" src="resmin_url_adresi_buraya" alt="oguzhansan" height="30" width="40" /> </a>
+<a href="https://oguzhansan.wordpress.com" target="_blank"><img align="center" src="https://en.wikipedia.org/wiki/WordPress.com#/media/File:WordPress_blue_logo.svg" alt="oguzhansan" height="30" width="40" /> </a>
 
 </p>
 
