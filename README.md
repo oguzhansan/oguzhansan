@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@h.oguzhansan](https://medium.com/@h.oguzhansan)
 
+<a href="https://medium.com/@h.oguzhansan" target="_blank">LinkedIn hesabım</a>
+
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **h.oguzhansan@gmail.com**
