@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@h.oguzhansan](https://medium.com/@h.oguzhansan)
-
-<a href="https://medium.com/@h.oguzhansan" target="_blank">LinkedIn hesabım</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@h.oguzhansan" target="_blank">Medium</a>
 
 - 💬 Ask me about **Machine Learning**
 
