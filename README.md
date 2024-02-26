@@ -2,18 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
+<h3 align="center"> 🔭 I’m currently working on **Data Science** </h3>
+<h3 align="center"> 🌱 I’m currently learning **Deep Learning** </h3>
+<h3 align="center"> 💬 Ask me about **Machine Learning** </h3>
+<h3 align="center"> 📫 How to reach me: h.oguzhansan@gmail.com </h3>
 
-- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Deep Learning**
-
-- 📝 I regularly write articles on <a href="https://medium.com/@h.oguzhansan" target="_blank">Medium</a>
-
-- 💬 Ask me about **Machine Learning**
-
-- 📫 How to reach me <a href="h.oguzhansan@gmail.com" target="_blank">**Mail**</a>
- 
-</p>
 
 <h3 align="left"> All Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
