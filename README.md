@@ -1,5 +1,6 @@
 ![MasterHead](http://res.cloudinary.com/dgzfnyttr/image/upload/q_auto/v1588961694/tool_sswtit.jpg)
 
+
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
 <h3 align="center"> 🔭 I’m currently working on **Data Science** </h3>
@@ -32,7 +33,7 @@
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/oguzhansan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhansan" height="30" width="40" /></a> <a href="https://oguzhansan.wordpress.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/975/579/non_2x/wordpress-logo-wordpress-icon-transparent-free-png.png" height="40" width="40" /> </a>
+<a href="https://linkedin.com/in/oguzhansan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhansan" height="30" width="40" /></a> <a href="https://oguzhansan.wordpress.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/975/579/non_2x/wordpress-logo-wordpress-icon-transparent-free-png.png" height="40" width="40" /> </a> <a href="https://medium.com/@h.oguzhansan" target="_blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" height="40" width="40" /> </a>
 
 
 <picture>
